@@ -136,4 +136,4 @@ Output of average metascore from top 100 games by platform. Output is generated 
 
 
 Output of average metascore from top 100 games by platform visualized as a horizontal bar graph. Horizontal bar graph is generated through matplotlib
-![Data Visualization](PlatformRankingsByMetascore.png)
+![Data Visualization](/images/PlatformRankingsByMetascore.png)
